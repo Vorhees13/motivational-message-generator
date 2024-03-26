@@ -17,4 +17,4 @@ The goal of this project is to provide users with a source of motivation and ins
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Vorhees13/motivational-message-generator>
